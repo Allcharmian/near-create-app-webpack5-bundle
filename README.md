@@ -1,7 +1,7 @@
-webpack5-near-app
+Webpack5-near-app
 ==================
 
-This [React] app was initialized with [create-near-app] and further modified to support webpack5
+This [React] app was initialized with [create-near-app] and further modified to support webpack5 by the [Varda](https://www.varda.vision) dev team.
 
 
 Quick Start
